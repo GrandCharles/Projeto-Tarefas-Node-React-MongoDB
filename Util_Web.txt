@@ -1,0 +1,36 @@
+*** Criar Projeto React
+npx create-react-app web
+------------------------------------
+npm install
+------------------------------------
+=== subir aplicação
+npm start 
+------------------------------------
+=== Estilos ====
+npm install --save styled-components
+--------------------------------------
+Ctrl + P
+ext install vscode-styled-components
+--------------------------------------
+Ctrl + P
+Color Highight
+Dracula Official
+Material Icon Theme
+Raibow Brackets
+--------------------------------------
+*** google fonts
+font Roboto
+Importa e aplica a font-family
+---------------------------------
+*** axios Realizar as requisições da API Backend
+npm install axios --save
+-----------------------------------------------
+** Trabalhar com data e hora
+npm install date-fns
+-----------------------------------------------
+** Modulo do React para navegação de paginas
+npm install react-router-dom
+npm install -D @types/react-router-dom 
+
+-----------------------------------------------
+

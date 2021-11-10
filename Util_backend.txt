@@ -1,0 +1,52 @@
+Adobe XD
+Puglin: Plugins - Icons - "Icons 4 Design"
+==========================================================================================================================
+NODE.JS
+https://nodejs.org/en/
+node --version
+==========================================================================================================================
+insomnia - Testar API
+https://insomnia.rest/download
+==========================================================================================================================
+MongoDB
+MongoDB Community Server
+https://www.mongodb.com/try/download/community
+==========================================================================================================================
+Visual Code
+Dracula
+Material Official
+Material Icon Theme
+Rainbow Brackets
+==========================================================================================================================
+BACKEND
+** Iniciando Projeto
+npm init -y
+==========================================================================================================================
+** Servidor de aplicação
+npm install express
+==========================================================================================================================
+
+** Atualização imediata do servidor, sem precisar reiniciar o servidor a cada alteração. -g Global todos os projetos
+npm install -g nodemon
+npm install nodemon -D  *** Para Desenvolvimento
+
+nodemon src/index.js
+ ou
+altera package.json
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  }
+npm run dev
+==========================================================================================================================
+Mongoose
+Para Conectar ao Mongodb
+npm install mongoose
+==========================================================================================================================
+** Para validar datas e horas
+date-fns
+npm install date-fns
+==========================================================================================================================
+** cors -  Conecta o backend no front and
+npm install cors
+==========================================================================================================================
+
